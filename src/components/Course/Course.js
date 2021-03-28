@@ -8,12 +8,11 @@ const Course = (props) => {
     
     return (
         <div style={courseStyle}>
-                  
+                        <h4>{name}</h4>
                         <p><b>Course Duration:</b> {duration}</p>
                         <p><b>Instructor:</b> {instructor}</p>
                         <p><b>Price:</b> {price}TK</p>
                         <button className="btn btn-primary" onClick={ () => handleAddCourse(props.course)}>Add Course</button>
-                
         </div>
        
     );
