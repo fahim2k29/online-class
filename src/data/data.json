@@ -1,22 +1,117 @@
 [
-    {"id": 1, "name":"Responsive Web Design","price":150,"instructor":"Alif mohammad","duration":"3 months","picture": "http://placehold.it/32x32"},
-    {"id": 2, "name":"Professional Web Development","price":180,"instructor":"Jhankar Mahbub","duration":"4.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 3, "name":"Android App Development","price":145,"instructor":"Masum Billah","duration":"2.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 4, "name":"CompTIA A+","price":160,"instructor":"Sharif Ahsan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 5, "name":"CCNA","price":190,"instructor":"Sharif Ahsan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 6, "name":"CCNP","price":195,"instructor":"Sharif Ahsan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 7, "name":"MilroTik","price":130,"instructor":"Sharif Ahsan","duration":"3 months","picture": "http://placehold.it/32x32"},
-    {"id": 8, "name":"Digital Marketing","price":180,"instructor":"Khalid Farhan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 9, "name":"Cyber Security","price":210,"instructor":"Fahim Hossain","duration":"5.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 10, "name":"SEO & Amazon Affiliate Marketing","price":180,"instructor":"Khalid Farhan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 11, "name":"Social Media Marketing (SMM)","price":160,"instructor":"Khalid Farhan","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 12, "name":"3D Animation","price":110,"instructor":"Bikrom Dasu","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 13, "name":"Professional Interior & Exterior Design","price":110,"instructor":"Ahsan Habib","duration":"3.5 months","picture": "http://placehold.it/32x32"},
-    {"id": 14, "name":"Digital Image Editing","price":110,"instructor":"Naim Ahtesam","duration":"3.5 months","picture": "http://placehold.it/32x32"}
-]
-
-
-
+    {
+       "id": 1,
+       "name": "Responsive Web Design",
+       "price": 150,
+       "instructor": "Alif mohammad",
+       "duration": "3 months",
+       "picture": "https://13p13n407tzq3x5jwg1daxox-wpengine.netdna-ssl.com/wp-content/uploads/2015/04/what-is-a-responsive-website.png"
+    },
+    {
+       "id": 2,
+       "name": "Professional Web Development",
+       "price": 180,
+       "instructor": "Jhankar Mahbub",
+       "duration": "4.5 months",
+       "picture": "https://dstechpro.com/images/5c9fb036d243d.png"
+    },
+    {
+       "id": 3,
+       "name": "Android App Development",
+       "price": 145,
+       "instructor": "Masum Billah",
+       "duration": "2.5 months",
+       "picture": "https://hackernoon.com/drafts/h7yw28l8.png"
+    },
+    {
+       "id": 4,
+       "name": "CompTIA A+",
+       "price": 160,
+       "instructor": "Sharif Ahsan",
+       "duration": "3.5 months",
+       "picture": "https://techoptimals.com/wp-content/uploads/2019/11/compp-min.png"
+    },
+    {
+       "id": 5,
+       "name": "CCNA",
+       "price": 190,
+       "instructor": "Sharif Ahsan",
+       "duration": "3.5 months",
+       "picture": "https://impulsse.la/wp-content/uploads/2020/10/New-Cisco-CCNA.jpg"
+    },
+    {
+       "id": 6,
+       "name": "CCNP",
+       "price": 195,
+       "instructor": "Sharif Ahsan",
+       "duration": "3.5 months",
+       "picture": "https://www.fgic.edu.bd/wp-content/uploads/2020/11/cisco_ccnp_R_26S.png"
+    },
+    {
+       "id": 7,
+       "name": "MilroTik",
+       "price": 130,
+       "instructor": "Sharif Ahsan",
+       "duration": "3 months",
+       "picture": "https://media-exp1.licdn.com/dms/image/C4E1BAQEKtLf1zHf_JQ/company-background_10000/0/1519799083873?e=2159024400&v=beta&t=6eiAOkI2k6ozG0KPSxeqzQxFWg_vwkHGhueagJYniIA"
+    },
+    {
+       "id": 8,
+       "name": "Digital Marketing",
+       "price": 180,
+       "instructor": "Khalid Farhan",
+       "duration": "3.5 months",
+       "picture": "https://www.mdirector.com/wp-content/uploads/2017/10/DIGITAL-MARKETING.jpg"
+    },
+    {
+       "id": 9,
+       "name": "Cyber Security",
+       "price": 210,
+       "instructor": "Fahim Hossain",
+       "duration": "5.5 months",
+       "picture": "https://innovationatwork.ieee.org/wp-content/uploads/2019/11/bigstock-Internet-Security-Firewall-Or-326464240_1024X684.png"
+    },
+    {
+       "id": 10,
+       "name": "SEO & Amazon Affiliate Marketing",
+       "price": 180,
+       "instructor": "Khalid Farhan",
+       "duration": "3.5 months",
+       "picture": "https://www.amijani.com/wp-content/uploads/2018/10/affiliate_marketing_amazon-1170x628.jpg"
+    },
+    {
+       "id": 11,
+       "name": "Social Media Marketing (SMM)",
+       "price": 160,
+       "instructor": "Khalid Farhan",
+       "duration": "3.5 months",
+       "picture": "https://360institute.net/wp-content/uploads/2020/07/SMM.png"
+    },
+    {
+       "id": 12,
+       "name": "3D Animation",
+       "price": 110,
+       "instructor": "Bikrom Dasu",
+       "duration": "3.5 months",
+       "picture": "https://www.adgully.com/img/800/201805/s.jpg"
+    },
+    {
+       "id": 13,
+       "name": "Professional Interior & Exterior Design",
+       "price": 110,
+       "instructor": "Ahsan Habib",
+       "duration": "3.5 months",
+       "picture": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/137699351/original/6b0afdf2498f203c211333a8542acb9f64f34ce4/do-professional-interior-and-exterior-design.jpg"
+    },
+    {
+       "id": 14,
+       "name": "Digital Image Editing",
+       "price": 110,
+       "instructor": "Naim Ahtesam",
+       "duration": "3.5 months",
+       "picture": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2019/04/dps-basic-editing-tutorial-white-balance_0004.jpg?resize=1500%2C516&ssl=1"
+    }
+ ]
 
 
 
